@@ -10,3 +10,14 @@ div{
 	height: 550px; 
 	background-repeat: no-repeat;
 }*/
+.gif{
+	float: left;
+	padding: 3px;
+	overflow: auto;
+}
+img{
+	height: 100px;
+}
+p{
+	margin: 0;
+}
