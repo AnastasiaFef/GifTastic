@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	//make a list for pre-created buttons
 	var buttons=["cat", "dog", "monkey"];
-	var query_url="http://api.giphy.com/v1/gifs/search?limit=10&api_key=dc6zaTOxFJmzC&q="
+	var query_url="https://api.giphy.com/v1/gifs/search?limit=10&api_key=dc6zaTOxFJmzC&q="
 
 	//add buttons to the DOM
 	for(var i=0; i<buttons.length; i++){
