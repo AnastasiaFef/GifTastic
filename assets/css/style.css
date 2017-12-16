@@ -1,15 +1,3 @@
-div{
-	border: 1px solid green;
-}
-
-/*background: rgba(0,0,0,.5);*/
-
-/*#button-container{
-	background-image: url("../images/christmas-tree.png");
-	background-size: 430px;
-	height: 550px; 
-	background-repeat: no-repeat;
-}*/
 .gif{
 	float: left;
 	padding: 3px;
@@ -20,4 +8,32 @@ img{
 }
 p{
 	margin: 0;
+}
+body{
+	background: url("../images/snow.jpg")
+}
+#fold-btn{
+	width: auto;
+	color: #5a5a5a;
+}
+.container{
+	margin: 15px;
+}
+.input-group{
+	width: 400px;
+}
+.animal-btn{
+	margin: 3px;
+}
+.container-fluid{
+	padding: 0;
+}
+.line{
+	background: rgba(94, 188, 170, 0.4);
+	padding: 10px;
+}
+#gif-container{
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: 1px solid rgba(94, 188, 170, 0.9);
 }
